@@ -1,5 +1,10 @@
 # Emotional_Intelligence_data_science_project
 This is a real Time project to identify students which need counselling in the college
+  - The data set for this project was provided to me from my college it contain responses of 960 students
+  - My approch to this was using Data Science
+    - First i have Performed cleaning of data then visualization of data using matplotlib
+    - You can instlall matplotlib using !pip install matplotlib on Jupyter notebook
+    
 # Selfawareness
 ![selfaware](https://user-images.githubusercontent.com/42214175/71004273-ca418280-2107-11ea-8adf-7f64358daef7.png)
 # Empathy
