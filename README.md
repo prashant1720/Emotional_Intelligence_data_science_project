@@ -6,7 +6,7 @@ This is a real Time project to identify students which need counselling in the c
     - You can instlall matplotlib using !pip install matplotlib on Jupyter notebook
     
 # Selfawareness
-![selfaware](https://user-images.githubusercontent.com/42214175/71004273-ca418280-2107-11ea-8adf-7f64358daef7.png)
+![self](https://user-images.githubusercontent.com/42214175/71774409-2d4e6880-2f94-11ea-8533-a3ca81f32006.png)
 # Empathy
 ![Empathy](https://user-images.githubusercontent.com/42214175/71003862-51422b00-2107-11ea-8eb4-933618354ebc.png)
 # Social Skills
